@@ -1,3 +1,5 @@
+This is a very basic to-do app made with React JavaScript, Tailwind CSS and DaisyUI. Feel free play with the code.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
